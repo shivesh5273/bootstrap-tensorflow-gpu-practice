@@ -1,6 +1,6 @@
 # Bootstrap TensorFlow GPU Practice
 
-This project documents my first hands-on assignment with TensorFlow, focusing on environment setup, GPU testing in Google Colab, and basic logical operations using tensors. It forms the foundational block of my ML/DL coursework at Boston University.
+This project documents my first hands-on assignment with TensorFlow, focusing on environment setup, GPU testing in Google Colab, and basic logical operations using tensors. It forms the foundational block of my ML/DL.
 
 ## 🔍 Key Concepts
 
